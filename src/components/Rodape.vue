@@ -13,7 +13,7 @@ a {
     color:blue !important;
 }
 .rodape {
-    border-top: 1px solid gray;
+    
 }
 .texto {
 

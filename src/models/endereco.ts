@@ -8,5 +8,6 @@ export interface Endereco {
     localidade?: string,
     logradouro?: String,
     siafi?: string,
-    uf?: string
+    uf?: string,
+    erro?: string,
 }
