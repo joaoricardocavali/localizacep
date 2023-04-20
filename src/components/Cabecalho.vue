@@ -3,7 +3,7 @@
         class="cabecalho" 
         @click="$router.push('/')"
         title="Pagina Inicial" >
-        <q-img class="imagemLogo" src="../../public/img/cp-icon.png" />
+        <q-img class="imagemLogo" src="../../public/cp-icon.png" />
         <span class="texto">LOCALIZA-CEP</span>
     </div>
 </template>
