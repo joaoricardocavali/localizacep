@@ -1,5 +1,10 @@
 # Localiza CEP
 
+Projeto pessoal realizado para treinamento em Vue 3, Axios e Quasar.
+Buscador de endereço via CEP com cabeçalho, rodapé, página inicial e página de busca.
+
+# Parâmetros do Vue
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
